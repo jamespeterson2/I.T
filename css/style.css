@@ -17,7 +17,7 @@ body {
 }
 
 .layout_padding2-top {
-  padding-top: 45px;
+  padding-top: 15px;
 }
 
 .layout_padding2-bottom {
@@ -74,7 +74,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 10px 0;
+  padding: 2px 0;
   border-radius: 15px 15px 0 0;
 }
 
@@ -90,7 +90,7 @@ body {
 }
 
 #navbarSupportedContent .navbar-nav .nav-link {
-  padding: 5px 25px;
+  padding: 30px 15px;
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
@@ -105,7 +105,7 @@ body {
   border: none;
   outline: none;
   color: white;
-  padding: 5px 10px;
+  padding: 30px 15px;
   background-color: inherit;
   text-transform: uppercase;
   font-family: inherit;
